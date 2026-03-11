@@ -1,17 +1,8 @@
 {
   "name": "climanolab-api",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "dev": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "type": "module",
   "dependencies": {
-    "dotenv": "^17.3.1",
     "pg": "^8.19.0"
   }
 }
